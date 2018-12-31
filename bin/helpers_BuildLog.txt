@@ -1,0 +1,10 @@
+parsing
+flex pass 1
+Output pass
+Writing prg file: C:\C64\Tools\KickAssembler\Mini_Projects\Raster_Bars\bin\helpers_Compiled.prg
+
+Memory Map
+----------
+
+Writing Vice symbol file: C:\C64\Tools\KickAssembler\Mini_Projects\Raster_Bars\bin\helpers.vs
+Writing Symbol file: bin\helpers.sym

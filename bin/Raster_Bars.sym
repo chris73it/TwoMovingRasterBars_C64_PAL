@@ -1,0 +1,38 @@
+.label vic2_interrupt_status_register=$d019
+.label cia1_interrupt_control_register=$dc0d
+.label go_lower=$8f2
+.label make_fd_one=$d4b
+.label vic2_screen_control_register1=$d011
+.label vic2_screen_control_register2=$d016
+.label main=$80e
+.label wait_8_rows_with_20_cycles_bad_lines=$de6
+.label wait_6_good_lines_minus_jsr_and_rts=$dac
+.label exiting_irq=$d4f
+.label ytemp=$d6e
+.label wait_1_row_with_20_cycles_bad_line=$dbf
+.label loop=$86c
+.label make_fd_zero=$d3b
+.label wait_one_bad_line_minus_3=$d77 {
+}
+.label xtemp=$d6c
+.label border=$d020
+.label wait_2_rows_with_20_cycles_bad_lines=$dc9
+.label increase_fe=$d30
+.label ld_y_above=$8d2
+.label decrease_fe=$d42
+.label wait_one_good_line_minus_jsr_and_rts=$d97 {
+}
+.label vic2_rasterline_register=$d012
+.label draw_colored_lines=$911
+.label cia2_interrupt_control_register=$dd0d
+.label reset_fc=$d28
+.label wait_one_bad_line=$d70 {
+}
+.label wait_4_rows_with_20_cycles_bad_lines=$dd6
+.label background=$d021
+.label irq1=$86f
+.label atemp=$d6a
+.label adjust_initial_delay=$d2c
+.label vic2_interrupt_control_register=$d01a
+.label wait_one_good_line=$d7c {
+}
